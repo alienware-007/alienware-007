@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alienware-007
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in ...coding and technology
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...building a world of technology
